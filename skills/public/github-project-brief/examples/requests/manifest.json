@@ -1,0 +1,179 @@
+{
+  "repo": "psf/requests",
+  "branch": "main",
+  "commit_sha": "3c7baaa05ab4aa49cc819ce3a819d260de19c157",
+  "commit_sha_source": "git-refs refs/heads/main",
+  "pinned": true,
+  "fetched_at_utc": "2026-11-21T19:11:45.108513+08:00",
+  "raw_ref_used": "3c7baaa05ab4aa49cc819ce3a819d260de19c157",
+  "files": [
+    {
+      "path": "README.md",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 2906,
+      "lines": 76,
+      "sha256": "2a9268c9be5f4dc9abe9105740be7c5234babc3dd2b25eb11ca376c538a0c67b"
+    },
+    {
+      "path": "setup.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 179,
+      "lines": 9,
+      "sha256": "1728c11af4134997015ab07547544852e2f7e103c79a5b0486a8486799f50e0a"
+    },
+    {
+      "path": "pyproject.toml",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 3404,
+      "lines": 125,
+      "sha256": "345f26b9f691435e39d0eb6f7f4150a390f43175b22f8d61ac95e7f2827f0a77"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 93,
+      "lines": 7,
+      "sha256": "aed8622c9a3d9361a9cdbe71a4643831387aff5f622ebdd68de598a8b258c841"
+    },
+    {
+      "path": "tox.ini",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 285,
+      "lines": 18,
+      "sha256": "65aeb46c94fc5723a9764bb029fdb448539658fe47d3a39550a829b2383804fd"
+    },
+    {
+      "path": "Makefile",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 834,
+      "lines": 27,
+      "sha256": "c31f5628de71af324c7db9b61579e8a287caae87f76586d70994a7dc86964ec7"
+    },
+    {
+      "path": "LICENSE",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 10142,
+      "lines": 175,
+      "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+    },
+    {
+      "path": "src/requests/__init__.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 5637,
+      "lines": 219,
+      "sha256": "80534322a1a3167d8775829ee220a6acf4fe455f3f778c4b8e94bcf7fadfa0b5"
+    },
+    {
+      "path": "src/requests/__version__.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 435,
+      "lines": 14,
+      "sha256": "abba90670b0370a3dc40d97c2dea46a35d4bec941ff10d7c3cf3098ef04a17f9"
+    },
+    {
+      "path": "src/requests/api.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 7152,
+      "lines": 180,
+      "sha256": "4d15480ac046f089209798e8650476ef4a28ebe6f81b400758f8ef42ec6b5509"
+    },
+    {
+      "path": "src/requests/sessions.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 34072,
+      "lines": 920,
+      "sha256": "3d2089736ced93b2b405624a943f866d22652b17df06a85eb010f86272fc3e7d"
+    },
+    {
+      "path": "src/requests/models.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 41462,
+      "lines": 1184,
+      "sha256": "a3351c3c12a86bf5ed211533875350bc4791e9327a685f8c19ba54343e471e26"
+    },
+    {
+      "path": "src/requests/adapters.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 27992,
+      "lines": 748,
+      "sha256": "cc9b1b02694fee0353481fbad84fe3ddbedec4441dba54df7914c63f2aa85937"
+    },
+    {
+      "path": "src/requests/auth.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 12107,
+      "lines": 354,
+      "sha256": "fdc8bb34a8a5a088b169ca13277d107b0bc94ee63ed5e89dd4f5569d9b2bb04c"
+    },
+    {
+      "path": "src/requests/utils.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 36061,
+      "lines": 1155,
+      "sha256": "b879cb3f671cf1c28e8ff9b2b02151bcdb8974b4820a514cfdd1f5a038443cd2"
+    },
+    {
+      "path": "src/requests/status_codes.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 4351,
+      "lines": 128,
+      "sha256": "1950f47c89cf18019787e07d8ce48f66d6b38e622f7d94d70a90247fee6c040e"
+    },
+    {
+      "path": "src/requests/exceptions.py",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 4564,
+      "lines": 162,
+      "sha256": "c5e18f3352454968e337bb3056f0867df2f37c0a0d2c1a77dc05e7e0b3c0411b"
+    },
+    {
+      "path": "docs/index.rst",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 3635,
+      "lines": 144,
+      "sha256": "b9a698849d129bec56fcb19d6078f3c60c626bda6b4a4e105966ec3ceb1d1115"
+    },
+    {
+      "path": "docs/user/quickstart.rst",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 19213,
+      "lines": 573,
+      "sha256": "5914de6a636d91ca2ca3a0df55ef8e57359e3fe364fb7176fdee60d231fe2e9f"
+    },
+    {
+      "path": "docs/user/install.rst",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 1038,
+      "lines": 36,
+      "sha256": "8b70734839932fa0a53da6e1d97e9c8077fe15f6e06747f24acf154feea039db"
+    },
+    {
+      "path": "docs/dev/contributing.rst",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 6584,
+      "lines": 165,
+      "sha256": "37e7765220386a5f81feadf77ac676954188aa4f3371d04b7534ee8d3326ed2b"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "repo": "bytedance/deer-flow",
+  "branch": "main",
+  "commit_sha": "40ef4f6ac1974ba3334f833c16da43b7e059ba47",
+  "commit_sha_source": "git-refs refs/heads/main",
+  "pinned": true,
+  "fetched_at_utc": "2026-11-21T03:42:51.417756+00:00",
+  "raw_ref_used": "40ef4f6ac1974ba3334f833c16da43b7e059ba47",
+  "files": [
+    {
+      "path": "README.md",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 11294,
+      "lines": 186,
+      "sha256": "c3fd49e14561d8b3599b90d285f6ff899b2f1149f567fa7f8cf0f5217709922b"
+    },
+    {
+      "path": "Install.md",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 4706,
+      "lines": 87,
+      "sha256": "4d84cda8985620d76d12449cfd2276cef66f6fd9d797079310f8c0febb4937cb"
+    },
+    {
+      "path": "Makefile",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 11177,
+      "lines": 246,
+      "sha256": "089edee59f03da881fdd4f176d0cc3089b92f700bd763d036db8309b42a0f3e4"
+    },
+    {
+      "path": "backend/pyproject.toml",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 5757,
+      "lines": 121,
+      "sha256": "c7a5cc17351472d802d44d907a3a26abcf59b44c4aa452f748ae207da560b11a"
+    },
+    {
+      "path": "frontend/package.json",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 4500,
+      "lines": 138,
+      "sha256": "93f969b4f099b15c337401fb29eb69b65b9a68d29448825e838390f335150440"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 11249,
+      "lines": 197,
+      "sha256": "1d726e92bd0241fde81b3be0da8a272ca78b22d946c85585657b61729f157c95"
+    },
+    {
+      "path": "docs/guide/deployment.md",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 41985,
+      "lines": 490,
+      "sha256": "f1b8d7757106f9d4ea057d8f07df2868ba86dbbe97d617a89de0861610de33f7"
+    },
+    {
+      "path": "backend/README.md",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 30397,
+      "lines": 620,
+      "sha256": "bb2e95972ab58ae7224e18f7ceb62ffa84994d42991ee77e3b0ec331fc1b3f9d"
+    },
+    {
+      "path": "docker/docker-compose-dev.yaml",
+      "ok": true,
+      "http_status": 200,
+      "bytes": 14425,
+      "lines": 296,
+      "sha256": "a2f84479a52a91c0da0e8d656222d74d2842a7d470b997a79bc87ca708475cad"
+    }
+  ],
+  "snapshot_dir": "snapshots/bytedance__deer-flow__40ef4f6ac197"
+}
